@@ -1,0 +1,704 @@
+Running (1000x1000:10) with 1 threads
+  memset: 0.000871
+ borders: 0.000008
+  memcpy: 0.002220
+ stencil: 0.053435
+   delta: 0.063531
+
+total time:        0.120065
+p in Amdahl's law: 0.974191
+
+After 10 iterations, delta was 0.060459
+Running (1000x1000:20) with 2 threads
+  memset: 0.002171
+ borders: 0.000017
+  memcpy: 0.007318
+ stencil: 0.160428
+   delta: 0.107213
+
+total time:        0.277147
+p in Amdahl's law: 0.965701
+
+After 20 iterations, delta was 0.042874
+Running (1000x1000:30) with 3 threads
+  memset: 0.000736
+ borders: 0.000008
+  memcpy: 0.009119
+ stencil: 0.179289
+   delta: 0.095024
+
+total time:        0.284175
+p in Amdahl's law: 0.965295
+
+After 30 iterations, delta was 0.035005
+Running (1000x1000:40) with 4 threads
+  memset: 0.001397
+ borders: 0.000008
+  memcpy: 0.012850
+ stencil: 0.153012
+   delta: 0.063963
+
+total time:        0.231230
+p in Amdahl's law: 0.938352
+
+After 40 iterations, delta was 0.030301
+Running (1000x1000:50) with 5 threads
+  memset: 0.001111
+ borders: 0.000008
+  memcpy: 0.016777
+ stencil: 0.154775
+   delta: 0.064080
+
+total time:        0.236751
+p in Amdahl's law: 0.924410
+
+After 50 iterations, delta was 0.027088
+Running (1000x1000:60) with 6 threads
+  memset: 0.001315
+ borders: 0.000008
+  memcpy: 0.020004
+ stencil: 0.153780
+   delta: 0.064326
+
+total time:        0.239433
+p in Amdahl's law: 0.910928
+
+After 60 iterations, delta was 0.024714
+Running (1000x1000:70) with 7 threads
+  memset: 0.000901
+ borders: 0.000008
+  memcpy: 0.024219
+ stencil: 0.156098
+   delta: 0.064526
+
+total time:        0.245752
+p in Amdahl's law: 0.897751
+
+After 70 iterations, delta was 0.022868
+Running (1000x1000:80) with 8 threads
+  memset: 0.001763
+ borders: 0.000009
+  memcpy: 0.028107
+ stencil: 0.155774
+   delta: 0.064540
+
+total time:        0.250192
+p in Amdahl's law: 0.880576
+
+After 80 iterations, delta was 0.021380
+Running (1000x1000:90) with 9 threads
+  memset: 0.000864
+ borders: 0.000008
+  memcpy: 0.031653
+ stencil: 0.154721
+   delta: 0.064783
+
+total time:        0.252030
+p in Amdahl's law: 0.870947
+
+After 90 iterations, delta was 0.020147
+Running (1000x1000:100) with 10 threads
+  memset: 0.001219
+ borders: 0.000009
+  memcpy: 0.035638
+ stencil: 0.163383
+   delta: 0.079338
+
+total time:        0.279587
+p in Amdahl's law: 0.868140
+
+After 100 iterations, delta was 0.019103
+Running (1000x1000:110) with 11 threads
+  memset: 0.001437
+ borders: 0.000010
+  memcpy: 0.040914
+ stencil: 0.185097
+   delta: 0.081751
+
+total time:        0.309209
+p in Amdahl's law: 0.863003
+
+After 110 iterations, delta was 0.018206
+Running (1000x1000:120) with 12 threads
+  memset: 0.001297
+ borders: 0.000008
+  memcpy: 0.043917
+ stencil: 0.202327
+   delta: 0.076210
+
+total time:        0.323759
+p in Amdahl's law: 0.860322
+
+After 120 iterations, delta was 0.017422
+Running (1000x1000:130) with 13 threads
+  memset: 0.001099
+ borders: 0.000008
+  memcpy: 0.049912
+ stencil: 0.193791
+   delta: 0.076865
+
+total time:        0.321675
+p in Amdahl's law: 0.841395
+
+After 130 iterations, delta was 0.016731
+Running (1000x1000:140) with 14 threads
+  memset: 0.001187
+ borders: 0.000009
+  memcpy: 0.052775
+ stencil: 0.181518
+   delta: 0.080075
+
+total time:        0.315563
+p in Amdahl's law: 0.828969
+
+After 140 iterations, delta was 0.016116
+Running (1000x1000:150) with 15 threads
+  memset: 0.001564
+ borders: 0.000007
+  memcpy: 0.057485
+ stencil: 0.203386
+   delta: 0.082470
+
+total time:        0.344912
+p in Amdahl's law: 0.828780
+
+After 150 iterations, delta was 0.015563
+Running (1000x1000:160) with 16 threads
+  memset: 0.001212
+ borders: 0.000007
+  memcpy: 0.061018
+ stencil: 0.197722
+   delta: 0.076930
+
+total time:        0.336889
+p in Amdahl's law: 0.815260
+
+After 160 iterations, delta was 0.015062
+Running (1000x1000:170) with 17 threads
+  memset: 0.001401
+ borders: 0.000009
+  memcpy: 0.063693
+ stencil: 0.181368
+   delta: 0.097210
+
+total time:        0.343682
+p in Amdahl's law: 0.810571
+
+After 170 iterations, delta was 0.014607
+Running (1000x1000:180) with 18 threads
+  memset: 0.001402
+ borders: 0.000008
+  memcpy: 0.065329
+ stencil: 0.171564
+   delta: 0.080989
+
+total time:        0.319291
+p in Amdahl's law: 0.790980
+
+After 180 iterations, delta was 0.014190
+Running (1000x1000:190) with 19 threads
+  memset: 0.001382
+ borders: 0.000008
+  memcpy: 0.075463
+ stencil: 0.230278
+   delta: 0.077436
+
+total time:        0.384567
+p in Amdahl's law: 0.800156
+
+After 190 iterations, delta was 0.013806
+Running (1000x1000:200) with 20 threads
+  memset: 0.001225
+ borders: 0.000008
+  memcpy: 0.079278
+ stencil: 0.227398
+   delta: 0.078421
+
+total time:        0.386330
+p in Amdahl's law: 0.791601
+
+After 200 iterations, delta was 0.013451
+Running (1000x1000:210) with 21 threads
+  memset: 0.001280
+ borders: 0.000008
+  memcpy: 0.073952
+ stencil: 0.170576
+   delta: 0.075980
+
+total time:        0.321796
+p in Amdahl's law: 0.766187
+
+After 210 iterations, delta was 0.013122
+Running (1000x1000:220) with 22 threads
+  memset: 0.001629
+ borders: 0.000010
+  memcpy: 0.082344
+ stencil: 0.178040
+   delta: 0.076504
+
+total time:        0.338527
+p in Amdahl's law: 0.751915
+
+After 220 iterations, delta was 0.012816
+Running (1000x1000:230) with 23 threads
+  memset: 0.001404
+ borders: 0.000009
+  memcpy: 0.084906
+ stencil: 0.198484
+   delta: 0.076776
+
+total time:        0.361579
+p in Amdahl's law: 0.761273
+
+After 230 iterations, delta was 0.012530
+Running (1000x1000:240) with 24 threads
+  memset: 0.001270
+ borders: 0.000009
+  memcpy: 0.089158
+ stencil: 0.173465
+   delta: 0.077078
+
+total time:        0.340980
+p in Amdahl's law: 0.734772
+
+After 240 iterations, delta was 0.012262
+Running (1000x1000:250) with 25 threads
+  memset: 0.001256
+ borders: 0.000009
+  memcpy: 0.088324
+ stencil: 0.188515
+   delta: 0.099607
+
+total time:        0.377710
+p in Amdahl's law: 0.762811
+
+After 250 iterations, delta was 0.012010
+Running (1000x1000:260) with 26 threads
+  memset: 0.001248
+ borders: 0.000009
+  memcpy: 0.097728
+ stencil: 0.253628
+   delta: 0.078326
+
+total time:        0.430938
+p in Amdahl's law: 0.770304
+
+After 260 iterations, delta was 0.011773
+Running (1000x1000:270) with 27 threads
+  memset: 0.001293
+ borders: 0.000009
+  memcpy: 0.097664
+ stencil: 0.178940
+   delta: 0.077840
+
+total time:        0.355745
+p in Amdahl's law: 0.721808
+
+After 270 iterations, delta was 0.011549
+Running (1000x1000:280) with 28 threads
+  memset: 0.001062
+ borders: 0.000008
+  memcpy: 0.103140
+ stencil: 0.219679
+   delta: 0.083660
+
+total time:        0.407550
+p in Amdahl's law: 0.744301
+
+After 280 iterations, delta was 0.011338
+Running (1000x1000:290) with 29 threads
+  memset: 0.001190
+ borders: 0.000008
+  memcpy: 0.108731
+ stencil: 0.205079
+   delta: 0.090306
+
+total time:        0.405313
+p in Amdahl's law: 0.728780
+
+After 290 iterations, delta was 0.011137
+Running (1000x1000:300) with 30 threads
+  memset: 0.001271
+ borders: 0.000009
+  memcpy: 0.110887
+ stencil: 0.213844
+   delta: 0.080193
+
+total time:        0.406204
+p in Amdahl's law: 0.723865
+
+After 300 iterations, delta was 0.010946
+Running (1000x1000:310) with 31 threads
+  memset: 0.001203
+ borders: 0.000008
+  memcpy: 0.119533
+ stencil: 0.228633
+   delta: 0.083606
+
+total time:        0.432984
+p in Amdahl's law: 0.721134
+
+After 310 iterations, delta was 0.010765
+Running (1000x1000:320) with 32 threads
+  memset: 0.001271
+ borders: 0.000010
+  memcpy: 0.118285
+ stencil: 0.209049
+   delta: 0.083001
+
+total time:        0.411616
+p in Amdahl's law: 0.709521
+
+After 320 iterations, delta was 0.010593
+Running (1000x1000:330) with 33 threads
+  memset: 0.001233
+ borders: 0.000011
+  memcpy: 0.125633
+ stencil: 0.222460
+   delta: 0.081832
+
+total time:        0.431169
+p in Amdahl's law: 0.705737
+
+After 330 iterations, delta was 0.010428
+Running (1000x1000:340) with 34 threads
+  memset: 0.001235
+ borders: 0.000011
+  memcpy: 0.130195
+ stencil: 0.245204
+   delta: 0.084514
+
+total time:        0.461159
+p in Amdahl's law: 0.714977
+
+After 340 iterations, delta was 0.010270
+Running (1000x1000:350) with 35 threads
+  memset: 0.001532
+ borders: 0.000010
+  memcpy: 0.127122
+ stencil: 0.211374
+   delta: 0.084590
+
+total time:        0.424628
+p in Amdahl's law: 0.696995
+
+After 350 iterations, delta was 0.010119
+Running (1000x1000:360) with 36 threads
+  memset: 0.001167
+ borders: 0.000008
+  memcpy: 0.139730
+ stencil: 0.247766
+   delta: 0.082967
+
+total time:        0.471638
+p in Amdahl's law: 0.701242
+
+After 360 iterations, delta was 0.009975
+Running (1000x1000:370) with 37 threads
+  memset: 0.001830
+ borders: 0.000009
+  memcpy: 0.146858
+ stencil: 0.225200
+   delta: 0.091372
+
+total time:        0.465270
+p in Amdahl's law: 0.680406
+
+After 370 iterations, delta was 0.009837
+Running (1000x1000:380) with 38 threads
+  memset: 0.001176
+ borders: 0.000008
+  memcpy: 0.142515
+ stencil: 0.239896
+   delta: 0.085379
+
+total time:        0.468974
+p in Amdahl's law: 0.693588
+
+After 380 iterations, delta was 0.009704
+Running (1000x1000:390) with 39 threads
+  memset: 0.001128
+ borders: 0.000009
+  memcpy: 0.142217
+ stencil: 0.219651
+   delta: 0.089169
+
+total time:        0.452173
+p in Amdahl's law: 0.682967
+
+After 390 iterations, delta was 0.009576
+Running (1000x1000:400) with 40 threads
+  memset: 0.001231
+ borders: 0.000008
+  memcpy: 0.150442
+ stencil: 0.213938
+   delta: 0.086968
+
+total time:        0.452587
+p in Amdahl's law: 0.664858
+
+After 400 iterations, delta was 0.009453
+Running (1000x1000:410) with 41 threads
+  memset: 0.001230
+ borders: 0.000008
+  memcpy: 0.151642
+ stencil: 0.224692
+   delta: 0.091245
+
+total time:        0.468817
+p in Amdahl's law: 0.673903
+
+After 410 iterations, delta was 0.009334
+Running (1000x1000:420) with 42 threads
+  memset: 0.001260
+ borders: 0.000008
+  memcpy: 0.158160
+ stencil: 0.212991
+   delta: 0.090478
+
+total time:        0.462898
+p in Amdahl's law: 0.655586
+
+After 420 iterations, delta was 0.009220
+Running (1000x1000:430) with 43 threads
+  memset: 0.001208
+ borders: 0.000008
+  memcpy: 0.159616
+ stencil: 0.231796
+   delta: 0.092574
+
+total time:        0.485202
+p in Amdahl's law: 0.668526
+
+After 430 iterations, delta was 0.009110
+Running (1000x1000:440) with 44 threads
+  memset: 0.001130
+ borders: 0.000008
+  memcpy: 0.160103
+ stencil: 0.217306
+   delta: 0.092237
+
+total time:        0.470784
+p in Amdahl's law: 0.657506
+
+After 440 iterations, delta was 0.009004
+Running (1000x1000:450) with 45 threads
+  memset: 0.001631
+ borders: 0.000010
+  memcpy: 0.178324
+ stencil: 0.261978
+   delta: 0.107052
+
+total time:        0.548995
+p in Amdahl's law: 0.672193
+
+After 450 iterations, delta was 0.008901
+Running (1000x1000:460) with 46 threads
+  memset: 0.001357
+ borders: 0.000008
+  memcpy: 0.167750
+ stencil: 0.226417
+   delta: 0.100763
+
+total time:        0.496295
+p in Amdahl's law: 0.659245
+
+After 460 iterations, delta was 0.008801
+Running (1000x1000:470) with 47 threads
+  memset: 0.000975
+ borders: 0.000009
+  memcpy: 0.174515
+ stencil: 0.238857
+   delta: 0.097983
+
+total time:        0.512339
+p in Amdahl's law: 0.657456
+
+After 470 iterations, delta was 0.008705
+Running (1000x1000:480) with 48 threads
+  memset: 0.001203
+ borders: 0.000010
+  memcpy: 0.179132
+ stencil: 0.217446
+   delta: 0.096278
+
+total time:        0.494069
+p in Amdahl's law: 0.634981
+
+After 480 iterations, delta was 0.008612
+Running (1000x1000:490) with 49 threads
+  memset: 0.001227
+ borders: 0.000009
+  memcpy: 0.185163
+ stencil: 0.251983
+   delta: 0.110342
+
+total time:        0.548723
+p in Amdahl's law: 0.660304
+
+After 490 iterations, delta was 0.008521
+Running (1000x1000:500) with 50 threads
+  memset: 0.001186
+ borders: 0.000009
+  memcpy: 0.184390
+ stencil: 0.223563
+   delta: 0.106420
+
+total time:        0.515568
+p in Amdahl's law: 0.640038
+
+After 500 iterations, delta was 0.008434
+Running (1000x1000:510) with 51 threads
+  memset: 0.001634
+ borders: 0.000008
+  memcpy: 0.197057
+ stencil: 0.248958
+   delta: 0.123564
+
+total time:        0.571221
+p in Amdahl's law: 0.652150
+
+After 510 iterations, delta was 0.008348
+Running (1000x1000:520) with 52 threads
+  memset: 0.001212
+ borders: 0.000009
+  memcpy: 0.194595
+ stencil: 0.227174
+   delta: 0.108674
+
+total time:        0.531664
+p in Amdahl's law: 0.631691
+
+After 520 iterations, delta was 0.008266
+Running (1000x1000:530) with 53 threads
+  memset: 0.001239
+ borders: 0.000009
+  memcpy: 0.206436
+ stencil: 0.276627
+   delta: 0.124142
+
+total time:        0.608453
+p in Amdahl's law: 0.658669
+
+After 530 iterations, delta was 0.008186
+Running (1000x1000:540) with 54 threads
+  memset: 0.001544
+ borders: 0.000011
+  memcpy: 0.209983
+ stencil: 0.281619
+   delta: 0.141630
+
+total time:        0.634787
+p in Amdahl's law: 0.666758
+
+After 540 iterations, delta was 0.008108
+Running (1000x1000:550) with 55 threads
+  memset: 0.001598
+ borders: 0.000011
+  memcpy: 0.208917
+ stencil: 0.253832
+   delta: 0.119190
+
+total time:        0.583549
+p in Amdahl's law: 0.639232
+
+After 550 iterations, delta was 0.008032
+Running (1000x1000:560) with 56 threads
+  memset: 0.001172
+ borders: 0.000008
+  memcpy: 0.208082
+ stencil: 0.243430
+   delta: 0.133082
+
+total time:        0.585774
+p in Amdahl's law: 0.642759
+
+After 560 iterations, delta was 0.007958
+Running (1000x1000:570) with 57 threads
+  memset: 0.001259
+ borders: 0.000011
+  memcpy: 0.218314
+ stencil: 0.277943
+   delta: 0.141427
+
+total time:        0.638954
+p in Amdahl's law: 0.656338
+
+After 570 iterations, delta was 0.007886
+Running (1000x1000:580) with 58 threads
+  memset: 0.001158
+ borders: 0.000009
+  memcpy: 0.226361
+ stencil: 0.246599
+   delta: 0.136342
+
+total time:        0.610469
+p in Amdahl's law: 0.627290
+
+After 580 iterations, delta was 0.007816
+Running (1000x1000:590) with 59 threads
+  memset: 0.001574
+ borders: 0.000010
+  memcpy: 0.246274
+ stencil: 0.289409
+   delta: 0.154026
+
+total time:        0.691293
+p in Amdahl's law: 0.641457
+
+After 590 iterations, delta was 0.007748
+Running (1000x1000:600) with 60 threads
+  memset: 0.001153
+ borders: 0.000008
+  memcpy: 0.244105
+ stencil: 0.247901
+   delta: 0.155170
+
+total time:        0.648337
+p in Amdahl's law: 0.621700
+
+After 600 iterations, delta was 0.007681
+Running (1000x1000:610) with 61 threads
+  memset: 0.001713
+ borders: 0.000007
+  memcpy: 0.255816
+ stencil: 0.282958
+   delta: 0.158580
+
+total time:        0.699073
+p in Amdahl's law: 0.631604
+
+After 610 iterations, delta was 0.007616
+Running (1000x1000:620) with 62 threads
+  memset: 0.001013
+ borders: 0.000009
+  memcpy: 0.266243
+ stencil: 0.292713
+   delta: 0.147187
+
+total time:        0.707165
+p in Amdahl's law: 0.622062
+
+After 620 iterations, delta was 0.007553
+Running (1000x1000:630) with 63 threads
+  memset: 0.001196
+ borders: 0.000009
+  memcpy: 0.260348
+ stencil: 0.272509
+   delta: 0.161002
+
+total time:        0.695064
+p in Amdahl's law: 0.623700
+
+After 630 iterations, delta was 0.007491
+Running (1000x1000:640) with 64 threads
+  memset: 0.001171
+ borders: 0.000009
+  memcpy: 0.259027
+ stencil: 0.262768
+   delta: 0.169299
+
+total time:        0.692275
+p in Amdahl's law: 0.624127
+
+After 640 iterations, delta was 0.007431
